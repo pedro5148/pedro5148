@@ -1,16 +1,20 @@
-### Hi there 👋
+<div align="center">
+<h2>Ola, eu sou o Pedro Eugênio :)</h2>
 
-<!--
-**pedro5148/pedro5148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>  Sobre mim!</h3>
 
-Here are some ideas to get you started:
+  🙋 Sou estudante de Sistemas de Informação na UFES - Alegre, cursando o 4º periodo.
+  
+  Atualmente sou estagiario no IFES - Rive
+  
+  💼 Futuro DevOps!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>⚙️ Stack</h3>
+
+  💻 Linux ● Docker ● Infraestrutura ●  Desenvolvimento (learning) ●  
+  
+  ⭐ PopOs! ● VsCode ● Tilix ● Vim ● ZSH
+
+<h3>Contato:</h3>
+
+  🐧 [@linkedin](https://www.linkedin.com/in/opedroeugenio/)
