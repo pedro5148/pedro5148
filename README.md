@@ -3,9 +3,7 @@
 
 <h3>  Sobre mim!</h3>
 
-  🙋 Sou estudante de Sistemas de Informação na UFES - Alegre (ES), cursando o 6º periodo.
-  
-  Atualmente sou estagiario na Tempest Security
+  🙋 Sou estudante de Sistemas de Informação na UFES - Alegre (ES), cursando o 7º periodo.
   
   💼 Futuro DevOps!
 
