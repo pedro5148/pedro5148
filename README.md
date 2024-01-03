@@ -3,7 +3,7 @@
 
 <h3>  Sobre mim!</h3>
 
-  🙋 Sou estudante de Sistemas de Informação na UFES - Alegre (ES), cursando o 7º periodo.
+  🙋 Sou estudante de Sistemas de Informação na UFES - Alegre (ES).
   
   💼 Futuro DevOps!
 
