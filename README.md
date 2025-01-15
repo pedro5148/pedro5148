@@ -7,10 +7,10 @@
 
 <h3>⚙️ Stack</h3>
 
-  💻 Linux ● Docker ● Infraestrutura ●  Desenvolvimento (learning) ●  
+  💻 Linux ● Docker ● Infraestrutura ●  Dev ●  
   
-  ⭐ PopOs! ● VsCode ● Tilix ● Vim ● ZSH
+  🐧 PopOs! ● VsCode ● Tilix ● Vim ● ZSH
 
 <h3>Contato:</h3>
 
-  🐧 [@linkedin](https://www.linkedin.com/in/opedroeugenio/)
+  💼[@linkedin](https://www.linkedin.com/in/opedroeugenio/)
